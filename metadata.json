@@ -1,0 +1,6 @@
+{
+  "name": "WinEmbed - Image to Windows EXE Header & Asset Converter",
+  "description": "Convert and embed image assets into native Windows executable files (PE .exe), C/C++ headers, Windows resource scripts (.rc), and native binary sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
